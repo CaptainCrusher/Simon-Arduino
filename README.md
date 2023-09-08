@@ -6,6 +6,10 @@ By @TheCaptain
 
 This can probably run on any arduino, but I only tried it on the UNO
 
+Arduino IDE is suggested for compiling and uploading code to the arduino board
+
+to download Arduino IDE go to https://www.arduino.cc/en/software
+
 
 NECESSITIES
      
