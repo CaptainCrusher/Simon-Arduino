@@ -8,6 +8,7 @@ This can probably run on any arduino, but I only tried it on the UNO
 
 
 NECESSITIES
+     
      -1 Arduino Uno
   
      -1 SPDT OR SPST switch
