@@ -11,7 +11,8 @@ Arduino IDE is suggested for compiling and uploading code to the arduino board
 to download Arduino IDE go to https://www.arduino.cc/en/software
 
 
-NECESSITIES
+
+# Necessities
      
      -1 Arduino Uno
   
@@ -35,8 +36,10 @@ NECESSITIES
   
      -1 USB cable
 
-
 while seven-segment displays for score keeping aren't necessary, I really suggest it
+
+
+# Hardware Hookup
 
 all power is routed through a SPDT switch and a 100 ohm resistor and than through a five volt power regulator (it doesn't matter what kind)
 
